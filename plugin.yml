@@ -1,0 +1,17 @@
+name: denwa
+main: syouyu\denwa\Main
+version: 1.0.0
+api: [3.0.0,4.0.0]
+author: syouyu
+website: github.com/syoooooooooyu/denwa
+
+commands:
+  denwa:
+    description: 電話を発信します。
+    usage: /denwa [PlayerName]
+  denwaok:
+    description: 電話を許可します。
+    usage: /denwaok
+  denwano:
+    description: 電話を拒否します。
+    usage: /denwano
