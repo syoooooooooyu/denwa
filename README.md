@@ -7,6 +7,9 @@
 ### /denwaok
 ### /denwano
 
-### /denwa $nameは電話を発信。
-### /denwa ok or no はokで電話を許可、noで拒否。
-### /denwa stopは電話をやめる。
+### /denwa $name:
+電話を発信。
+### /denwa ok or no:
+okで電話を許可、noで拒否。
+### /denwa stop:
+電話をやめる。
